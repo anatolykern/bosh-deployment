@@ -3,8 +3,8 @@
   path: /releases/-
   value:
     name: bosh-kubernetes-cpi
-    url: https://github.com/SAP/bosh-kubernetes-cpi-release/releases/download/v5/bosh-kubernetes-cpi-5-alpha.tgz
-    sha1: 989d9dbe8f3514660a49a3d28d24342636ef68b4
+    url: https://github.com/SAP/bosh-kubernetes-cpi-release/releases/download/v5/bosh-kubernetes-cpi-5.tgz
+    sha1: ef3c532139c6b938a5ab3eb996834e6622369f4c
 
 - type: replace
   path: /resource_pools/name=vms/stemcell?
